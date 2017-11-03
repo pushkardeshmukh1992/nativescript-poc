@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/cp_user/Documents/hackathon/native-script-javascript/HelloWorld/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/background.png",
+        "source": "/home/cp_user/Documents/hackathon/native-script-javascript/HelloWorld/platforms/android/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/home/cp_user/Documents/hackathon/native-script-javascript/HelloWorld/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo.png",
+        "source": "/home/cp_user/Documents/hackathon/native-script-javascript/HelloWorld/platforms/android/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/home/cp_user/Documents/hackathon/native-script-javascript/HelloWorld/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/icon.png",
+        "source": "/home/cp_user/Documents/hackathon/native-script-javascript/HelloWorld/platforms/android/src/main/res/drawable-mdpi/icon.png"
+    }
+]
